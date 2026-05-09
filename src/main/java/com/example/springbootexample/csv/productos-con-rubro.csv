@@ -1,0 +1,101 @@
+idProducto,nombre,valor,rubro
+1,Zapatos deportivos,450,ropa
+2,Taladro eléctrico,320,ferreteria
+3,Pantalones vaqueros,280,ropa
+4,Horno de microondas,750,electrodomestico
+5,Arroz integral,120,almacen
+6,Llave ajustable,150,ferreteria
+7,Camisa de vestir,650,ropa
+8,Aspiradora robot,620,electrodomestico
+9,Latas de sopa,110,almacen
+10,Caja de herramientas,420,ferreteria
+11,Sombrero de paja,180,ropa
+12,Plancha de vapor,480,electrodomestico
+13,Aceite de oliva,150,almacen
+14,Sierra circular,550,ferreteria
+15,Vestido de noche,720,ropa
+16,Lavadora de ropa,900,electrodomestico
+17,Pasta de dientes,50,almacen
+18,Destornillador,130,ferreteria
+19,Chaqueta de cuero,420,ropa
+20,Refrigerador,980,electrodomestico
+21,Arroz integral,120,almacen
+22,Martillo,90,ferreteria
+23,Camiseta de algodón,220,ropa
+24,Horno tostador,180,electrodomestico
+25,Sal y pimienta,30,almacen
+26,Sierra de calar,380,ferreteria
+27,Pantalones cortos,160,ropa
+28,Lavavajillas,750,electrodomestico
+29,Harina de trigo,80,almacen
+30,Linterna LED,70,ferreteria
+31,Zapatos de tacón,350,ropa
+32,Televisor LED,680,electrodomestico
+33,Papel higiénico,40,almacen
+34,Pinzas,50,ferreteria
+35,Vestido de novia,850,ropa
+36,Máquina de café,560,electrodomestico
+37,Sopa enlatada,90,almacen
+38,Sierra de mano,120,ferreteria
+39,Sudadera con capucha,420,ropa
+40,Secadora de ropa,780,electrodomestico
+41,Leche en polvo,70,almacen
+42,Clavos,30,ferreteria
+43,Jeans ajustados,620,ropa
+44,Lavadora de platos,620,electrodomestico
+45,Cereal de desayuno,80,almacen
+46,Cinta métrica,40,ferreteria
+47,Vestido de verano,320,ropa
+48,Horno eléctrico,520,electrodomestico
+49,Arroz blanco,110,almacen
+50,Llave inglesa,60,ferreteria
+51,Sudadera con capucha,420,ropa
+52,Microondas,450,electrodomestico
+53,Aceite de canola,130,almacen
+54,Pinzas para cortar,40,ferreteria
+55,Blusa de seda,380,ropa
+56,Licuadora,340,electrodomestico
+57,Harina de maíz,70,almacen
+58,Atornillador eléctrico,90,ferreteria
+59,Vestido de fiesta,750,ropa
+60,Lavadora de ropa,900,electrodomestico
+61,Champú,50,almacen
+62,Cuchillo de cocina,40,ferreteria
+63,Pantalones cortos,160,ropa
+64,Horno tostador,180,electrodomestico
+65,Pasta de dientes,50,almacen
+66,Sierra circular,550,ferreteria
+67,Chaqueta de invierno,420,ropa
+68,Refrigerador,980,electrodomestico
+69,Aceite de oliva,150,almacen
+70,Taladro eléctrico,320,ferreteria
+71,Blusa de encaje,280,ropa
+72,Aspiradora robot,620,electrodomestico
+73,Cereal de avena,110,almacen
+74,Herramienta multiusos,80,ferreteria
+75,Sombrero de sol,180,ropa
+76,Plancha de vapor,480,electrodomestico
+77,Leche en polvo,70,almacen
+78,Televisor LED,680,ferreteria
+79,Vestido de cóctel,520,ropa
+80,Lavavajillas,750,electrodomestico
+81,Arroz integral,120,almacen
+82,Linterna LED,70,ferreteria
+83,Pantalones vaqueros,280,ropa
+84,Secadora de ropa,780,electrodomestico
+85,Sal y pimienta,30,almacen
+86,Martillo,90,ferreteria
+87,Blusa de seda,380,ropa
+88,Horno eléctrico,520,electrodomestico
+89,Papel higiénico,40,almacen
+90,Clavos,30,ferreteria
+91,Sierra de mano,120,ropa
+92,Licuadora,340,electrodomestico
+93,Zapatos deportivos,450,ropa
+94,Pinzas para cortar,40,ferreteria
+95,Vestido de verano,320,ropa
+96,Horno tostador,180,electrodomestico
+97,Microondas,450,electrodomestico
+98,Sopa enlatada,90,almacen
+99,Llave inglesa,60,ferreteria
+100,Sudadera con capucha,420,ropa
